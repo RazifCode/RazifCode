@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Razif  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Razif%20Bedula&fontSize=40&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Razif%20&fontSize=40&fontColor=fff&animation=fadeIn)
 
 💻 **Developer | Bot Enthusiast | Tech Explorer**  
 
