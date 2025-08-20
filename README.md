@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Razif Bedula  
+# Hi there 👋, I'm Razif  
 
 💻 **Developer | Bot Enthusiast | Tech Explorer**  
 
@@ -6,7 +6,7 @@
 I love experimenting with automation, bot development, and cloud-based solutions. Most of my projects are related to **WhatsApp bots, APIs, and creative web designs**.  
 
 ### 🚀 About Me
-- 🔭 Currently working on: **Arisu Soft Cloud (WhatsApp Bot Service)**  
+- 🔭 Currently working on: **Website A Business and Bot Whatsapp**  
 - 🌱 Learning more about **Node.js, Tailwind CSS, and API integration**  
 - 💡 Passionate about **automation & creative coding**  
 - 🎨 Sometimes I do **art & design** for fun  
@@ -18,13 +18,12 @@ I love experimenting with automation, bot development, and cloud-based solutions
 - **Other**: MySQL, MongoDB, Git  
 
 ### 📊 GitHub Stats
-![Razif's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazifBedulaOfficial&show_icons=true&theme=radical)
+![Razif's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazifCode&show_icons=true&theme=radical)
 
 ### 🌐 Connect with Me
-- 📩 WhatsApp Bot Project: [Arisu Soft Cloud](https://github.com/your-link-here)  
-- 📷 Instagram: [@yourusername](https://instagram.com/yourusername)  
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)  
-
+- 📩 WhatsApp Bot Project: [comming soon](https://github.com/)  
+- 📷 Instagram: [comming soon](https://instagram.com/)  
+- 🐦 Twitter: [comming soon](https://twitter.com/)  
 ---
 
 ✨ *Thanks for visiting my profile!*
