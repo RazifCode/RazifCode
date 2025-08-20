@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Razif%20&fontSize=40&fontColor=fff&animation=fadeIn)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RazifBedulaOfficial&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazifBedulaOfficial&theme=radical)
+
 💻 **Developer | Bot Enthusiast | Tech Explorer**  
 
 🌟 Welcome to my GitHub!  
