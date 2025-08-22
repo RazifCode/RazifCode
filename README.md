@@ -37,7 +37,6 @@ I enjoy experimenting with automation, bot development, and cloud-based solution
 
 ---
 
-![Snake animation](https://github.com/RazifCode/RazifCode/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 Activity Graph
 [![Razif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
