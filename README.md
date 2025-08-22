@@ -32,12 +32,6 @@ Saya suka bereksperimen dengan automasi, pembangunan bot, dan solusi berasaskan 
 
 ---
 
-### 📱 Hubungi Saya
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usernamekamu)  
-[![Website](https://img.shields.io/badge/Laman%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=RazifCode&color=blue&style=flat-square)
 
 ✨ *Terima kasih kerana singgah di profil saya!*
