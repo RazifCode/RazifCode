@@ -37,19 +37,15 @@ I enjoy experimenting with automation, bot development, and cloud-based solution
 
 ---
 
-### 📂 Featured Projects
-- 🔹 [My WhatsApp Bot](https://github.com/RazifCode/your-bot-repo) – Tutorial & automation bot.  
-- 🔹 [My Website](https://github.com/RazifCode/your-website-repo) – Personal creative portfolio.  
+![Snake animation](https://github.com/RazifCode/RazifCode/blob/output/github-contribution-grid-snake.svg)
+
+### 📈 Activity Graph
+[![Razif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📫 Reach Me
-- 📧 Email: yourname@email.com  
-- 🌐 Website/Portfolio: [your-website.com](https://your-website.com)  
-- 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle)  
-
----
-
+![Followers](https://img.shields.io/github/followers/RazifCode?style=social)
+![Stars](https://img.shields.io/github/stars/RazifCode?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=RazifCode&color=blue&style=flat-square)
 
 ✨ *Thanks for visiting my profile!*
