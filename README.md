@@ -49,20 +49,3 @@ I enjoy experimenting with automation, bot development, and cloud-based solution
 ![Visitor Count](https://komarev.com/ghpvc/?username=RazifCode&color=blue&style=flat-square)
 
 ✨ *Thanks for visiting my profile!*
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🧰 Tools & Platforms
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&lines=Hello+World!;I+love+automation;I+build+WhatsApp+Bots)
-
-![Visitor Map](https://github-visitor-badge.glitch.me/badge?page_id=RazifCode)
-
-### 🤝 Contributions
-- Contributed to [Baileys](https://github.com/adiwajshing/Baileys)
-- Contributed to [Open Source Project X](https://github.com/example/project)
-
-![GitHub Contribution Calendar](https://github.com/RazifCode/RazifCode/blob/main/github-metrics.svg)
