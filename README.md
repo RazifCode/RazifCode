@@ -5,15 +5,12 @@
 💻 **Bot Builder | Automation Enthusiast | Tech Explorer**  
 
 🌟 Welcome to my GitHub!  
-I enjoy experimenting with automation, bot development, and cloud-based solutions. Most of my projects revolve around **WhatsApp Bots, APIs, and creative web design**.  
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently working on: **WhatsApp Bot Tutorials, My Website**  
-- 🌱 Currently learning more about **Node.js, HTML, CSS, and API integration**  
 - 💡 My main interests: **automation & creativity in coding**  
-- 🎨 Sometimes I do **art & design** as a hobby  
 
 ---
 
@@ -47,4 +44,3 @@ I enjoy experimenting with automation, bot development, and cloud-based solution
 ![Stars](https://img.shields.io/github/stars/RazifCode?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=RazifCode&color=blue&style=flat-square)
 
-✨ *Thanks for visiting my profile!*
