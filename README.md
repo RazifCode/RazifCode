@@ -11,10 +11,15 @@
   <p>
     <a href="https://www.instagram.com/razif.bd" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
     </a>
+    </>
     <a href="https://www.facebook.com/profile.php?id=61587803708258" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+    </>
+     <a href="https://youtube.com/@razif.programm" target="_blank">
+      <img
+      src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
   </p>
 </div>
@@ -28,7 +33,7 @@
 const introRaz = {
   role: "FrontEnd Developer",
   language: "javascript",
-  tools: [termux", "acode"],
+  tools: ["termux", "acode"],
   hobby: "Studying coding",
   status: "nothing"
 }
