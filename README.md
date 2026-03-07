@@ -1,7 +1,1 @@
-<video
-  src="yuuka-sporywear-l2d-2160.mp4"
-  autoplay
-  loop
-  muted
-  playsinline
-></video>
+![demo](Blue-Archive-Tendo-Arisu-ezgif.com-video-to-gif-converter.gif)
