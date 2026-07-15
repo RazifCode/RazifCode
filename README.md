@@ -1,8 +1,11 @@
 ![demo](gif.gif)
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=1356f6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Razif;FrontEnd+Developer+;Learning+JavaScript" alt="Typing SVG" />
+    <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&weight=700&size=22&pause=1000&color=1356f6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Razif;FrontEnd+Developer+;Learning+JavaScript;Bot+Developer+%7C+AI+Specialist;WhatsApp+Bot+Creator;JavaScript+%26+Node.js+Enjoyer;Always+Learning+New+Things+%F0%9F%92%AB"
+    alt="Typing SVG" />
   </a>
 
   <p>
@@ -16,31 +19,30 @@
       <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
   </p>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=RazifCode&style=for-the-badge&color=ff69b4&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RazifCode?style=for-the-badge&color=9b5de5&label=Followers)
+![Stars](https://img.shields.io/github/stars/RazifCode?style=for-the-badge&color=FFD700&label=Total+Stars)
 </div>
 
 ---
 
 ### 🧑🏻‍💻 About Me
 
-Saya seorang developer web hadapan (*Front-End Developer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih dan bantuan AI.
-
-Translate:
-I'm a front-end web developer (*Front-End Developer*) who is currently delving into the world of JavaScript. I enjoy building engaging and interactive web interfaces, even if sometimes only using mobile devices and the help of AI.
-
+I'm a front-end web developer (_Front-End Developer_) who is currently delving
+into the world of JavaScript. I enjoy building engaging and interactive web
+interfaces, even if sometimes only using mobile devices and the assistance from AI.
 
 ```javascript
-const introRaz = {
-  role: "Front-End Developer",
-  language: "JavaScript",
-  tools: ["Termux", "Acode", "VS Code"],
-  hobby: "Exploring new codel",
-  status: "Not always learning and improving"
-}
-
-console.log(introRaz);
+role: "Front-End Developer",
+language: "JavaScript",
+tools: ["Termux", "Acode", "VS Code"],
+hobby: "Exploring new codel",
+status: "Not always learning and improving"
 ```
 
 💻 Tech Stack & Tools
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,vscode,github" />
 </div>
@@ -52,4 +54,5 @@ console.log(introRaz);
 </a>
 <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+width="100%"/>
