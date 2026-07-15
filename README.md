@@ -22,7 +22,7 @@
 ### 🧑🏻‍💻 About Me
 
 Saya seorang programmer web hadapan (*Front-End Programmer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih dan bantuan AI.
-//
+---
 I'm a front-end web programmer (*Front-End Programmer*) who is currently delving into the world of JavaScript. I enjoy building engaging and interactive web interfaces, even if sometimes only using mobile devices and the help of AI.
 
 
