@@ -37,7 +37,7 @@ interfaces, even if sometimes only using mobile devices and the assistance from 
 role: "Front-End Developer",
 language: "JavaScript",
 tools: ["Termux", "Acode", "VS Code"],
-hobby: "Exploring new codel",
+hobby: "Exploring new code",
 status: "Not always learning and improving"
 ```
 
