@@ -47,6 +47,5 @@ Seni bina teknologi dan alatan yang saya gunakan untuk membina projek:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Razif Activity Graph" width="100%" />
 </a>
 <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RazifCode&theme=tokyonight" width="100%" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
