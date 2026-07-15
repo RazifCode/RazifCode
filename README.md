@@ -1,4 +1,4 @@
-```
+
 <div align="center">
 
 ![demo](gif.gif)
@@ -61,5 +61,3 @@ width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-``` 
-Ini adalah saya punya md. Tambahkan atau ubah teks ini
