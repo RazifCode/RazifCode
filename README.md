@@ -21,22 +21,24 @@
 
 ### 🧑🏻‍💻 About Me
 
-Saya seorang pembangun web hadapan (*Front-End Developer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih!
+Saya seorang programmer web hadapan (*Front-End Programmer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih dan bantuan AI.
+//
+I'm a front-end web programmer (*Front-End Programmer*) who is currently delving into the world of JavaScript. I enjoy building engaging and interactive web interfaces, even if sometimes only using mobile devices and the help of AI.
+
 
 ```javascript
 const introRaz = {
-  role: "Front-End Developer",
+  role: "Front-End Programmer",
   language: "JavaScript",
   tools: ["Termux", "Acode", "VS Code"],
-  hobby: "Exploring new code & building web projects",
-  status: "Always learning and improving"
+  hobby: "Exploring new codel",
+  status: "Not always learning and improving"
 }
 
 console.log(introRaz);
 ```
 
 💻 Tech Stack & Tools
-Seni bina teknologi dan alatan yang saya gunakan untuk membina projek:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,vscode,github" />
 </div>
