@@ -1,4 +1,4 @@
-<div align="center">
+a6<div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=1356f6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Razif;FrontEnd+Developer+;Learning+JavaScript" alt="Typing SVG" />
@@ -21,15 +21,15 @@
 
 ### 🧑🏻‍💻 About Me
 
-Saya seorang programmer web hadapan (*Front-End Programmer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih dan bantuan AI.
+Saya seorang developer web hadapan (*Front-End Developer*) yang sedang mendalami dunia JavaScript. Saya gemar membina antaramuka web yang menarik dan interaktif, walaupun kadangkala hanya menggunakan peranti mudah alih dan bantuan AI.
 
 Translate:
-I'm a front-end web programmer (*Front-End Programmer*) who is currently delving into the world of JavaScript. I enjoy building engaging and interactive web interfaces, even if sometimes only using mobile devices and the help of AI.
+I'm a front-end web developer (*Front-End Developer*) who is currently delving into the world of JavaScript. I enjoy building engaging and interactive web interfaces, even if sometimes only using mobile devices and the help of AI.
 
 
 ```javascript
 const introRaz = {
-  role: "Front-End Programmer",
+  role: "Front-End Developer",
   language: "JavaScript",
   tools: ["Termux", "Acode", "VS Code"],
   hobby: "Exploring new codel",
