@@ -37,12 +37,21 @@ hobby: "Exploring new code",
 status: "Not always learning and improving"
 ```
 
-💻 Tech Stack & Tools
+<p align="center">
+  <b>💻 Tech Stack & Tools</b>
+</p>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,vscode,github" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github" width="100% />
- <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,vscode,github" alt="My Tech Stack" />
+  </a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-width="100%"/>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github" width="100%" alt="RazifCode Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" alt="RazifCode Streak Stats" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
