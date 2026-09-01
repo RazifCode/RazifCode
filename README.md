@@ -30,10 +30,6 @@
 
 ### 🧑🏻‍💻 About Me
 
-I'm a front-end web developer (_Front-End Developer_) who is currently delving
-into the world of JavaScript. I enjoy building engaging and interactive web
-interfaces, even if sometimes only using mobile devices and the assistance from AI.
-
 ```javascript
 role: "Front-End Developer",
 language: "JavaScript",
@@ -49,10 +45,7 @@ status: "Not always learning and improving"
 </div>
 📈 Coding Activity & Stats
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula" alt="Razif Activity Graph" width="100%" />
-</a>
+[![Razif github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
