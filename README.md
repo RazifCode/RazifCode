@@ -51,7 +51,7 @@ status: "Not always learning and improving"
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Razif Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula" alt="Razif Activity Graph" width="100%" />
 </a>
 <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
 </div>
