@@ -48,10 +48,3 @@ status: "Not always learning and improving"
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github" width="100%" alt="RazifCode Activity Graph" />
-  <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" alt="RazifCode Streak Stats" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
