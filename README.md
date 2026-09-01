@@ -37,17 +37,6 @@ hobby: "Exploring new code",
 status: "Not always learning and improving"
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RazifCode&style=for-the-badge&color=ff69b4&label=Profile+Views)
-
-[![GitHub Followers](https://img.shields.io/github/followers/RazifCode?style=for-the-badge&color=9b5de5&label=Followers)](https://github.com/RazifCode)
-[![GitHub Stars](https://img.shields.io/github/stars/RazifCode?style=for-the-badge&color=FFD700&label=Total+Stars)](https://github.com/RazifCode)
-
-</div>
-
 <p align="center">
   <b>💻 Tech Stack & Tools</b>
 </p>
