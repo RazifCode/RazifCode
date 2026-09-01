@@ -45,7 +45,7 @@ status: "Not always learning and improving"
 </div>
 📈 Coding Activity & Stats
 <div align="center">
-[![Razif github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Razif github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RazifCode&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://streak-stats.demolab.com?user=RazifCode&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
