@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    <a href="https://www.instagram.com/razif.bd" target="_blank">
+    <a href="https://www.instagram.com/razif_bd" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=61587803708258" target="_blank">
