@@ -140,7 +140,7 @@ Check out my repositories to discover my projects, experiments, and development 
 
   **© RazifCode**
 
-</div>
+</div
 
 <!--
 ![demo](gif.gif)
