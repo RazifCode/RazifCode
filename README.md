@@ -140,10 +140,10 @@ Check out my repositories to discover my projects, experiments, and development 
 
   **© RazifCode**
 
-</div
+</div>
 
-<!--
-![demo](gif.gif)
+
+<!-- ![demo](gif.gif)
 
 <div align="center">
 
@@ -192,6 +192,4 @@ status: "Not always learning and improving"
   </a>
 </div>
 
-<br />
-
--->
+<br /> -->
